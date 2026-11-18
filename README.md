@@ -43,3 +43,5 @@ The finished site is the `public` folder.
 ## License
 
 The code and article are released under the MIT License (see `LICENSE`).
+
+Contact me @ 👉 [My Email](melchizedekmadaki93@gmail.com) or [LinkedIN](www.linkedin.com/in/melchizedek-madaki-97856a368)
